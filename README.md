@@ -1,2 +1,2 @@
 ## catering-work-java-spring
-* simple example of Spring Batch job
+// simple example of Spring Batch job
